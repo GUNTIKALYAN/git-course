@@ -1,2 +1,3 @@
 name : enter name
 age : enter age
+class : enter class
